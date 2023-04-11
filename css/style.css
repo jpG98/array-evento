@@ -1,0 +1,48 @@
+#mapas{
+    position: absolute;
+    width: 100px;
+    height: 116px;
+    margin-left: 20px;
+    top: 125px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+#amuletos{
+    position: absolute;
+    width: 100px;
+    height: 116px;
+    margin-left: 150px;
+    top: 125px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+#btnmap{
+    position: absolute;
+    margin-left: 20px;
+    top: 100px;
+}
+
+#btnamuleto{
+    position: absolute;
+    margin-left: 150px;
+    top: 100px;
+}
+
+body{
+    background: linear-gradient(105.87deg, #9A78AE 26.04%, rgba(255, 255, 255, 0) 96.21%);
+}
+
+
+
+
+
